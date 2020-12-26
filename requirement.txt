@@ -1,0 +1,3 @@
+voila
+fastai>=0.0.16
+ipwidgets = 7.5.1
